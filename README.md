@@ -76,7 +76,7 @@
 
 ------------------------------------------------------------------------
 
-## 業績
+## 業績git config --global user.email "ir8359@gmail.com"
 
 ### Peer reviewed publication（5年以内、著者は6名まで記載）
 
@@ -86,7 +86,7 @@
     doi: [10.1007/s00408-024-00777-0](https://doi.org/10.1007/s00408-024-00777-0)
     
 1.  **Imai R.**, Tomishima Y., Nakamura T., Yamada D., Ro S., So C., et al.\ 
-    Prognosis of Equivocal Interstitial Lung Abnormalities in a Health Check-up Population. \
+    Prognosis of Equivocal Interstitial Lung Abnormalities in a Health Check-up Population.\
     Ann Am Thorac Soc. 2025;22(3):387-394.\
     doi: [10.1513/AnnalsATS.202408-867OC](https://doi.org/10.1513/AnnalsATS.202408-867OC)
     
