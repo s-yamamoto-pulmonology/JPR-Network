@@ -113,7 +113,7 @@
 7.  Tomishima Y, Kitamura A, **Imai R**, Ohde S.\
     Deleterious impact of trivial to severe interstitial pneumonia and emphysema on mortality and acute exacerbation of interstitial pneumonia in patients with lung cancer: a retrospective cohort study.\
     BMC Pulm Med. 2024;24:290.\
-    doi: [10.1186/s12890-024-03105-7)](https://doi.org/10.1186/s12890-024-03105-7)
+    doi: [10.1186/s12890-024-03105-7](https://doi.org/10.1186/s12890-024-03105-7)
 
 8.  Asao T, Shukuya T, Uemura K, Kitadai R, Yamamoto G, Mouri A, et al.\
     Risk and survival of patients with non-small cell lung cancer and pre-existing autoimmune disorders receiving immune checkpoint blockade therapy: Survival analysis with inverse probability weighting from a nationwide, multi-institutional, retrospective study (NEJ047).\
