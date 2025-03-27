@@ -40,7 +40,7 @@
 
 ------------------------------------------------------------------------
 
-## お知らせ
+## お知らせ {#お知らせ}
 
 -   **2025年3月** Github リポジトリを公開しました
 
@@ -84,17 +84,11 @@
     Surgical and Bronchoscopic Lung Volume Reduction for Severe Emphysema: A Systematic Review and Network Meta-analysis.\
     Lung. 2025;203(1):22.\
     doi: [10.1007/s00408-024-00777-0](https://doi.org/10.1007/s00408-024-00777-0)
-    
-1.  **Imai R.**, Tomishima Y., Nakamura T., Yamada D., Ro S., So C., et al.\
+
+2.  **Imai R.**, Tomishima Y., Nakamura T., Yamada D., Ro S., So C., et al.\
     Prognosis of Equivocal Interstitial Lung Abnormalities in a Health Check-up Population.\
     Ann Am Thorac Soc. 2025;22(3):387-394.\
     doi: [10.1513/AnnalsATS.202408-867OC](https://doi.org/10.1513/AnnalsATS.202408-867OC)
-    
-
-2.  **Imai R**, Tomishima Y, Nakamura T, Yamada D, Ro S, So C, et al.\
-    Prognosis of Equivocal Interstitial Lung Abnormalities in a Health Check-up Population.\
-    Ann Am Thorac Soc. 2025;22(3):387-394.\
-    doi: [10.1513/annalsats.202408-867oc](https://doi.org/10.1513/annalsats.202408-867oc)
 
 3.  Nishihara M, **Imai R**, Ushigusa T, Nakamura T, So C, Okafuji K, et al.\
     Pulmonary Sclerosing Pneumocytoma: A Case Revealed During 8-Year of Follow-up with CT imaging.\
