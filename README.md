@@ -40,7 +40,7 @@
 
 ------------------------------------------------------------------------
 
-## お知らせ {#お知らせ}
+## お知らせ
 
 -   **2025年3月** Github リポジトリを公開しました
 
@@ -79,6 +79,11 @@
 ## 業績
 
 ### Peer reviewed publications（5年以内、著者は6名まで記載）
+
+1.  Flachner BM, **Imai R**, Synn AJ, Munchel JK, Hariri LP, Bermea RS, et al.\
+    Progressive course of anti-nuclear matrix protein-2 (NXP-2) positive-interstitial lung disease.\
+    Respir Med Res. 2025 (in press).
+    doi: in press
 
 1.  **Yamamoto S**, Horita N, **Imai R**, **Niitsu T**\
     Surgical and Bronchoscopic Lung Volume Reduction for Severe Emphysema: A Systematic Review and Network Meta-analysis.\
