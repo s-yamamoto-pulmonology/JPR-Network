@@ -480,9 +480,14 @@
 10. **Imai R**, Higuchi T, Morimoto M, Koyamada R, Okada S.\
     Iron Deficiency Anemia Due to the Long-term Use of a Proton Pump Inhibitor.\
     Intern Med. 2017;57(6):899-901.\
-    doi: [10.2169/internalmedicine.9554-17](https://doi.org/10.2169/internalmedicine.9554-17) \### Review article/Editorial
+    doi: [10.2169/internalmedicine.9554-17](https://doi.org/10.2169/internalmedicine.9554-17)\
 
 ### Review articles/Editorials/Correspondences
+
+1.  **Imai R**, Fukui S, Inoue K\
+    Pirfenidone and lung cancer in idiopathic pulmonary fibrosis: mind the index date, detection bias, and competing risks.\
+    Eur Respir J. 2025 (in press).\
+    doi: in press
 
 1.  **Yamamoto S**, **Imai R**, **Niitsu T**\
     CRP-Guided Treatment in Pneumonia: Charting a Personalized Approach.\
