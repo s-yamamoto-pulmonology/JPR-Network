@@ -48,7 +48,7 @@
 
 ## 運営
 
--   **山本章太**（Senior Director）
+-   **山本章太**（Principal Director）
 -   **今井亮介**（Director：疫学・臨床研究担当）
 -   **新津敬之**（Director：基礎・橋渡し研究担当）
 
