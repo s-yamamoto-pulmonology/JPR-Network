@@ -35,12 +35,12 @@
 
 **連絡先**
 
--   基礎・橋渡し・臨床研究のご相談とオンラインリサーチミーティングの見学希望の方は[syamamoto4\@wisc.edu](mailto:syamamoto4@wisc.edu){.email}もしくはイシューの発行をお願いします\
--   製薬会社・企業の方からのお問い合わせは[syamamoto4\@wisc.edu](mailto:syamamoto4@wisc.edu){.email}までお願いします
+-   基礎・橋渡し・臨床研究のご相談とオンラインリサーチミーティングの見学希望の方は[syamamoto4\@wisc.edu](mailto:syamamoto4@wisc.edu)もしくはイシューの発行をお願いします\
+-   製薬会社・企業の方からのお問い合わせは[syamamoto4\@wisc.edu](mailto:syamamoto4@wisc.edu)までお願いします
 
 ------------------------------------------------------------------------
 
-## お知らせ {#お知らせ}
+## お知らせ
 
 -   **2025年3月** Github リポジトリを公開しました
 
@@ -480,7 +480,7 @@
 10. **Imai R**, Higuchi T, Morimoto M, Koyamada R, Okada S.\
     Iron Deficiency Anemia Due to the Long-term Use of a Proton Pump Inhibitor.\
     Intern Med. 2017;57(6):899-901.\
-    doi: [10.2169/internalmedicine.9554-17](https://doi.org/10.2169/internalmedicine.9554-17) \### Review article/Editorial
+    doi: [10.2169/internalmedicine.9554-17](https://doi.org/10.2169/internalmedicine.9554-17)
 
 ### Review articles/Editorials/Correspondences
 
@@ -521,7 +521,12 @@
 -   **公益財団法人 大阪難病研究財団　医学研究助成**（2023−2024: Grant Number 29-1-32)
 -   **公益財団法人 大阪難病研究財団　医学研究助成**（2024−2025: Grant Number 30-2-37)
 -   **The Office of the Assistant Secretary of Defense for Health Affairs, Peer Reviewed Medical Research Program**（2024−2028：Award No. HT9425-24-1-0543）
--   **Wisconsin Partnership Program, Collaborative Health Science Program grant**（2024−2028：Grant ID 6116）
+-   **Wisconsin Partnership Program, Collaborative Health Science Program Grant**\
+    Shota Yamamoto, Co-Investigator\| 2024 Sep.−2028 Aug.\| Proteomic Exploration of Lung Matrisome in Pulmonary Fibrosis: Role of Mrc2\| Total Award Amount: \$600,000\| Grant ID 6116
+-   **University of Wisconsin-Madison, Academic Discretionary Funds**\
+    Shota Yamamoto, Project PI\| 2023 Jul.−2024 Jun.\| Role of Mrc2 in Lung Injury and Repair\| Total Award Amount: \$5,000\| Funding No. 233-534285-4-AAJ4193
+-   **University of Wisconsin-Madison, Academic Discretionary Funds**\
+    Shota Yamamoto, Project PI\| 2024 Jul.−2025 Jun.\| Lung Matrisome in Mice Lacking Collagen Receptor Mrc2\| Total Award Amount: \$5,000\| Funding No. 233-534285-5-ABJ3993
 
 ------------------------------------------------------------------------
 
