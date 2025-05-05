@@ -79,10 +79,18 @@
 ## 業績
 
 ### Peer reviewed publications（5年以内、著者は6名まで記載）
+1.  **Imai R**, Bermea RS, Zhao SH, Montesi SB, Singh A, Flashner BM, et al.\
+    Anti-Ro52 Seropositive Interstitial Lung Disease is Associated with a Higher Risk for Disease Progression and Mortality.\
+    CHEST. 2025 (in press). doi: in press
+
+1.  Flachner BM, **Imai R**, Synn AJ, Munchel JK, Hariri LP, Bermea RS, et al.\
+    Anti-Mi-2 positive interstitial lung disease (ILD): a progressive disease comparable to other myositis-ILD.\
+    Respir Med Res. 2025 (in press). doi: in press
 
 1.  Flachner BM, **Imai R**, Synn AJ, Munchel JK, Hariri LP, Bermea RS, et al.\
     Progressive course of anti-nuclear matrix protein-2 (NXP-2) positive-interstitial lung disease.\
-    Respir Med Res. 2025 (in press). doi: in press
+    Respir Med Res. 2025;87:101170.\
+    doi: [10.1016/j.resmer.2025.101170](https://doi.org/10.1016/j.resmer.2025.101170)
 
 2.  **Yamamoto S**, Horita N, **Imai R**, **Niitsu T**\
     Surgical and Bronchoscopic Lung Volume Reduction for Severe Emphysema: A Systematic Review and Network Meta-analysis.\
