@@ -503,8 +503,8 @@
 
 2.  **Yamamoto S**, **Imai R**, **Niitsu T**\
     CRP-Guided Treatment in Pneumonia: Charting a Personalized Approach.\
-    Lancet Respir Med. 2025 (in press).\
-    doi: in press
+    Lancet Respir Med. 2025;13(5)e24.\
+    doi: [10.1016/S2213-2600(25)00095-5](https://doi.org/10.1016/S2213-2600(25)00095-5)
 
 3.  **Yamamoto S**, Ishikawa H, Takeda K, Kawashima M\
     Sputum colour matters: haemoptysis in a bronchiectasis registry.\
