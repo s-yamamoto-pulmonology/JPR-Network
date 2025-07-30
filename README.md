@@ -79,6 +79,11 @@
 ## 業績
 
 ### Peer reviewed publications（5年以内、著者は6名まで記載）
+1.  **Niitsu T**, Kataoka T, Fukushima K, Motooka D, Shichino S, Natsume-Kitatani Y, et al.\
+    Spatial transcriptomics identifies SPARC as a prognostic marker in interstitial lung diseases.\
+    J Pathol.2025 (in press).\
+    doi: [10.1002/path.6451](https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.6451)
+    
 1.  **Imai R**, Bermea RS, Zhao SH, Montesi SB, Singh A, Flashner BM, et al.\
     Anti-Ro52 Seropositive Interstitial Lung Disease is Associated with a Higher Risk for Disease Progression and Mortality.\
     CHEST. 2025 (in press).\
