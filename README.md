@@ -79,6 +79,11 @@
 ## 業績
 
 ### Peer reviewed publications（5年以内、著者は6名まで記載）
+1.  **Imai R**, **Niitsu T**, Liu MY, Faust H, Schnapp LM, **Yamamoto S**.\
+    Comparison of Corticosteroid Regimens for COVID-19 and Non-COVID-19 ARDS: A Systematic Review and Dose-Response Network Meta-Analysis.\
+    CHEST Crit Care. 2025 (in press).\
+    doi: (in press)
+
 1.  **Niitsu T**, Kataoka T, Fukushima K, Motooka D, Shichino S, Natsume-Kitatani Y, et al.\
     Spatial transcriptomics identifies SPARC as a prognostic marker in interstitial lung diseases.\
     J Pathol.2025 (in press).\
