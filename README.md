@@ -70,8 +70,8 @@
 ### 基礎研究
 
 -   **肺間質における細胞外マトリックスの質的・量的変化**（University of Wisconsin IACUC: M006349）
--   **肺線維症モデルマウスにおけるTop-down/Bottom-up プロテオミクス解析（LC-MS/MS）**（University of Wisconsin IACUC: M006349
--   **重症呼吸不全患者における末梢血を用いたマルチオミクス解析**（Mass General Brigham Institutional Review Board: Protocol #2022P001829））
+-   **肺線維症モデルマウスにおけるTop-down/Bottom-up プロテオミクス解析（LC-MS/MS）**（University of Wisconsin IACUC: M006349）
+-   **重症呼吸不全患者における末梢血を用いたマルチオミクス解析**（Mass General Brigham Institutional Review Board: Protocol #2022P001829）
 -   **線維性及び嚢胞性肺疾患における空間トランスクリプトーム解析**（大阪大学 倫理審査委員会承認済み）
 -   **リピドミクス解析による間質性肺疾患の病態解明（SFC/QqQMS）**（国立病院機構刀根山医療センター 倫理審査委員会承認済み：TNH-R-202 0034）
 -   **プロテオミクス・トランスクリプトミクス解析ソフトウェアの開発**（[Github](https://github.com/s-yamamoto-pulmonology?tab=repositories)）
