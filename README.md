@@ -159,7 +159,7 @@
 
 15. **Yamamoto S**, Horita N, Hara J, Sasamoto M, Kanemitsu Y, Hara Y, et al.\
     Benefit-risk profile of P2X3 receptor antagonists for treatment of chronic cough: Dose-response model-based network meta-analysis.\
-    Chest. 2024;166(5):1124-1140.\
+    CHEST. 2024;166(5):1124-1140.\
     doi: [10.1016/j.chest.2024.05.015](https://doi.org/10.1016/j.chest.2024.05.015)
 
 16. Fukushima K, Matsumoto Y, Abe Y, Hashimoto K, Motooka D, Kitada S, et al.\
