@@ -104,8 +104,8 @@
 
 4.  **Imai R**, Bermea RS, Zhao SH, Montesi SB, Singh A, Flashner BM, et al.\
     Anti-Ro52 Seropositive Interstitial Lung Disease is Associated with a Higher Risk for Disease Progression and Mortality.\
-    CHEST. 2025 (online ahead of print).\
-    doi: [10.1016/j.chest.2025.05.036](https://doi.org/10.1016/j.chest.2025.05.036.)
+    CHEST. 2025;168(4):954-966.\
+    doi: [10.1016/j.chest.2025.05.036](https://doi.org/10.1016/j.chest.2025.05.036)
 
 5.  Flachner BM, **Imai R**, Synn AJ, Munchel JK, Hariri LP, Bermea RS, et al.\
     Anti-Mi-2 positive interstitial lung disease (ILD): a progressive disease comparable to other myositis-ILD.\
