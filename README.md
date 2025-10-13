@@ -83,14 +83,14 @@
 ### Peer reviewed publications（5年以内、著者は6名まで記載）
 
 1.  **Yamamoto S**, Wilson CL, Krueger MA, Gharib SA, Schnapp LM.\
-    Comparison of Corticosteroid Regimens for COVID-19 and Non-COVID-19 ARDS: A Systematic Review and Dose-Response Network Meta-Analysis.\
+    Deficiency of the Collagen Endocytic Receptor MRC2 Accelerates Mouse Lung Fibroblast Proliferation .\
     Am J Respir Cell Mol Biol. 2025 (in press).\
     doi: (in press)
 
 1.  **Niitsu T**, Fukushima K, Komukai S, Yamamoto R, Shiroyama T, Nii T, et al.\
     Effectiveness of antifibrotic treatment in real-world patients with progressive pulmonary fibrosis.\
     Respir Med. 2025;248:108347.\
-    doi: ([10.1016/j.rmed.2025.108347](https://linkinghub.elsevier.com/retrieve/pii/S095461112500410X)))
+    doi: ([10.1016/j.rmed.2025.108347](https://linkinghub.elsevier.com/retrieve/pii/S095461112500410X)
 
 2.  **Imai R**, **Niitsu T**, Liu MY, Faust H, Schnapp LM, **Yamamoto S**.\
     Comparison of Corticosteroid Regimens for COVID-19 and Non-COVID-19 ARDS: A Systematic Review and Dose-Response Network Meta-Analysis.\
