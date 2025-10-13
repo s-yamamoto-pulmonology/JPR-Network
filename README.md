@@ -99,12 +99,12 @@
 
 3.  **Niitsu T**, Kataoka T, Fukushima K, Motooka D, Shichino S, Natsume-Kitatani Y, et al.\
     Spatial transcriptomics identifies SPARC as a prognostic marker in interstitial lung diseases.\
-    J Pathol.2025 (in press).\
+    J Pathol.2025;267(1):79-91.\
     doi: [10.1002/path.6451](https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.6451)
 
 4.  **Imai R**, Bermea RS, Zhao SH, Montesi SB, Singh A, Flashner BM, et al.\
     Anti-Ro52 Seropositive Interstitial Lung Disease is Associated with a Higher Risk for Disease Progression and Mortality.\
-    CHEST. 2025 (in press).\
+    CHEST. 2025 (online ahead of print).\
     doi: [10.1016/j.chest.2025.05.036](https://doi.org/10.1016/j.chest.2025.05.036.)
 
 5.  Flachner BM, **Imai R**, Synn AJ, Munchel JK, Hariri LP, Bermea RS, et al.\
@@ -399,7 +399,7 @@
 
 63. Konno-Yamamoto A, Narumoto O, **Yamamoto S**, Yamaguchi M, Motoyoshi M, Inoue Y, et al.\
     Diaphragmatic hernia during treatment of lung cancer harboring an EGFR mutation.\
-    Oxford Med Case Rep. 2021;2021(7).\
+    Oxford Med Case Rep. 2021;2021(7):omab054.\
     doi: [10.1093/omcr/omab054](https://doi.org/10.1093/omcr/omab054)
 
 64. Hashimoto H, **Yamamoto S**, Nakagawa H, Suido Y, Sato S, Tabata E, et al.\
@@ -414,7 +414,7 @@
 
 66. **Yamamoto S**, Hasebe T, Tomita K, Kamei S, Matsumoto T, Imai Y, et al.\
     Pulmonary perfusion by chest digital dynamic radiography: Comparison between breath-holding and deep-breathing acquisition.\
-    J Appl Clin Med Phys. 2020.\
+    J Appl Clin Med Phys. 2020;21(11):247-255.\
     doi: [10.1002/acm2.13071](https://doi.org/10.1002/acm2.13071)
 
 67. Tomita K, Matsumoto T, Kamei S, **Yamamoto S**, Suda S, Zakoji H, et al.\
@@ -424,12 +424,12 @@
 
 68. Takeuchi H, Matsumoto T, Morimoto K, Osawa T, Tanaka Y, Yoshimori K, et al.\
     Detection of Shunting Into Pulmonary Artery on Multidetector Row Computed Tomography Arteriography Before Bronchial Arterial Embolization: A Preliminary Study.\
-    J Comput Assist Tomogr. 2020.\
+    J Comput Assist Tomogr. 2020;44(6):852-856.\
     doi: [10.1097/rct.0000000000001099](https://doi.org/10.1097/rct.0000000000001099)
 
 69. Takeda K, Kawashima M, Masuda K, Kimura Y, **Yamamoto S**, Enomoto Y, et al.\
     Long-Term Outcomes of Bronchial Artery Embolization for Patients with Non-Mycobacterial Non-Fungal Infection Bronchiectasis.\
-    Respiration. 2020;1-9.\
+    Respiration. 2020;99(11):961-969.\
     doi: [10.1159/000511132](https://doi.org/10.1159/000511132)
 
 70. **Niitsu T**, Shiroyama T, Miyake K, Noda Y, Kido K, Hara R, et al.\
@@ -523,8 +523,8 @@
 
 1.  **Imai R**, Fukui S, Inoue K\
     Pirfenidone and lung cancer in idiopathic pulmonary fibrosis: mind the index date, detection bias, and competing risks.\
-    Eur Respir J. 2025 (in press).\
-    doi: in press
+    Eur Respir J. 2025;66(3):2500453.\
+    doi: [10.1183/13993003.00453-2025](https://doi.org/10.1183/13993003.00453-2025)
 
 2.  **Yamamoto S**, **Imai R**, **Niitsu T**\
     CRP-Guided Treatment in Pneumonia: Charting a Personalized Approach.\
