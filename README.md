@@ -82,7 +82,11 @@
 
 ### Peer reviewed publications（5年以内、著者は6名まで記載）
 
-1.  **Yamamoto S**, Wilson CL, Krueger MA, Gharib SA, Schnapp LM.\
+1.  Yokota K, **Niitsu T**, et al.\
+    Endobronchial Watanabe Spigot for Acute Empyema With Bronchopleural Fistula: A Case Series.\
+    Respirol Case Rep. 2025;13:e70444.\
+    doi: https://doi.org/10.1002/rcr2.70444
+3.  **Yamamoto S**, Wilson CL, Krueger MA, Gharib SA, Schnapp LM.\
     Deficiency of the Collagen Endocytic Receptor MRC2 Accelerates Mouse Lung Fibroblast Proliferation .\
     Am J Respir Cell Mol Biol. 2025 (in press).\
     doi: (in press)
@@ -96,26 +100,36 @@
     Comparison of Corticosteroid Regimens for COVID-19 and Non-COVID-19 ARDS: A Systematic Review and Dose-Response Network Meta-Analysis.\
     CHEST Crit Care. 2025 (online ahead of print).\
     doi: [10.1016/j.chstcc.2025.100207](https://doi.org/10.1016/j.chstcc.2025.100207)
+        
+        
 
 3.  **Niitsu T**, Kataoka T, Fukushima K, Motooka D, Shichino S, Natsume-Kitatani Y, et al.\
     Spatial transcriptomics identifies SPARC as a prognostic marker in interstitial lung diseases.\
     J Pathol.2025;267(1):79-91.\
     doi: [10.1002/path.6451](https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.6451)
+        
+        
 
 4.  **Imai R**, Bermea RS, Zhao SH, Montesi SB, Singh A, Flashner BM, et al.\
     Anti-Ro52 Seropositive Interstitial Lung Disease is Associated with a Higher Risk for Disease Progression and Mortality.\
     CHEST. 2025;168(4):954-966.\
     doi: [10.1016/j.chest.2025.05.036](https://doi.org/10.1016/j.chest.2025.05.036)
+        
+        
 
 5.  Flachner BM, **Imai R**, Synn AJ, Munchel JK, Hariri LP, Bermea RS, et al.\
     Anti-Mi-2 positive interstitial lung disease (ILD): a progressive disease comparable to other myositis-ILD.\
     Respir Med Res. 2025;13;88:101176.\
     doi: [10.1016/j.resmer.2025.101176](https://doi.org/10.1016/j.resmer.2025.101176)
+        
+        
 
 6.  Flachner BM, **Imai R**, Synn AJ, Munchel JK, Hariri LP, Bermea RS, et al.\
     Progressive course of anti-nuclear matrix protein-2 (NXP-2) positive-interstitial lung disease.\
     Respir Med Res. 2025;87:101170.\
     doi: [10.1016/j.resmer.2025.101170](https://doi.org/10.1016/j.resmer.2025.101170)
+        
+        
 
 7.  **Yamamoto S**, Horita N, **Imai R**, **Niitsu T**\
     Surgical and Bronchoscopic Lung Volume Reduction for Severe Emphysema: A Systematic Review and Network Meta-analysis.\
