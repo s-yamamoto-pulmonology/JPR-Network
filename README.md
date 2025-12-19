@@ -100,6 +100,13 @@
     Lung Function Changes Across the Menopausal Transition: A Longitudinal Analysis of Annual Exams.\
     CHEST. 2025 (in press).\
     doi: [10.1016/j.chest.2025.09.011](https://www.sciencedirect.com/science/article/pii/S0012369225052572)
+    
+    
+1.  Nakano W, Nakamura T, Kitamura A, So C, Ro S, **Imai R**, et al.\
+    Risk Factors for the Failure of Non-surgical Treatment in Pneumothorax.\
+    Cureus 2025; 17(11): e97132.\
+    doi: [10.7759/cureus.97132](https://www.cureus.com/articles/414619-risk-factors-for-the-failure-of-non-surgical-treatment-in-pneumothorax#!/)
+    
 
 
 1.  Yokota K, **Niitsu T**, Tanaka S, Nagira D, Nishibeppu S, Takada N, et al.\
