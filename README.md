@@ -104,7 +104,7 @@
     
 1.  Nakano W, Nakamura T, Kitamura A, So C, Ro S, **Imai R**, et al.\
     Risk Factors for the Failure of Non-surgical Treatment in Pneumothorax.\
-    Cureus 2025; 17(11): e97132.\
+    Cureus 2025;17(11):e97132.\
     doi: [10.7759/cureus.97132](https://www.cureus.com/articles/414619-risk-factors-for-the-failure-of-non-surgical-treatment-in-pneumothorax#!/)
     
 
@@ -129,14 +129,14 @@
 
 2.  **Imai R**, **Niitsu T**, Liu MY, Faust H, Schnapp LM, **Yamamoto S**.\
     Comparison of Corticosteroid Regimens for COVID-19 and Non-COVID-19 ARDS: A Systematic Review and Dose-Response Network Meta-Analysis.\
-    CHEST Crit Care. 2025 (online ahead of print).\
+    CHEST Crit Care. 2025;3(4):100207.\
     doi: [10.1016/j.chstcc.2025.100207](https://doi.org/10.1016/j.chstcc.2025.100207)
         
         
 
 3.  **Niitsu T**, Kataoka T, Fukushima K, Motooka D, Shichino S, Natsume-Kitatani Y, et al.\
     Spatial transcriptomics identifies SPARC as a prognostic marker in interstitial lung diseases.\
-    J Pathol.2025;267(1):79-91.\
+    J Pathol. 2025;267(1):79-91.\
     doi: [10.1002/path.6451](https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.6451)
         
         
