@@ -82,27 +82,27 @@
 
 ### Peer reviewed publications（5年以内、著者は6名まで記載）
 
-1.  **Imai R**, Bermea RS, Zhao SH, Singh A, Synn AJ, Flashner BM, Munchel JK, Rice MB, Shea BS, Hallowell RW.\ 
-    Low forced vital capacity is associated with poor prognosis in physiologically stable non-IPF interstitial lung disease.\ 
+1.  **Imai R**, Bermea RS, Zhao SH, Singh A, Synn AJ, Flashner BM, et al.\
+    Low forced vital capacity is associated with poor prognosis in physiologically stable non-IPF interstitial lung disease.\
     Eur Respir J. 2025 (in press).\
     doi: [10.1183/13993003.01638-2025](https://publications.ersnet.org/content/erj/early/2025/10/28/1399300301638-2025)
 
 
 
-1.  Billa S, Fukui S, Paudel ML, Suzuki T, **Imai R**, Kim Y, Nakai T, Tamaki H, Kishimoto M, Ørbo HS, Tedeschi SK, Choi HK, Okada M, Solomon DH.\ 
-    Longitudinal Changes in Serum Urate Levels from Pre-menopause through Post-menopause: Interrupted Time-Series Analyses.\     
+1.  Billa S, Fukui S, Paudel ML, Suzuki T, **Imai R**, Kim Y, et al.\
+    Longitudinal Changes in Serum Urate Levels from Pre-menopause through Post-menopause: Interrupted Time-Series Analyses.\      
     Arthritis Rheumatol. 2025 (in press).\
     doi: [10.1002/art.43406](https://acrjournals-onlinelibrary-wiley-com.treadwell.idm.oclc.org/doi/10.1002/art.43406)
 
 
 
-1.  **Imai R**, Ro S, Tukpah AC, Suzuki T, Kim Y, Shinozaki T, Fukui S.\ 
+1.  **Imai R**, Ro S, Tukpah AC, Suzuki T, Kim Y, Shinozaki T, et al.\
     Lung Function Changes Across the Menopausal Transition: A Longitudinal Analysis of Annual Exams.\
     CHEST. 2025 (in press).\
     doi: [10.1016/j.chest.2025.09.011](https://www.sciencedirect.com/science/article/pii/S0012369225052572)
 
 
-1.  Yokota K, **Niitsu T**, Tanaka S, Nagira D, Nishibeppu S, Takada N, Tobita S, Yaga M, Ueno K, Funakoshi Y.\
+1.  Yokota K, **Niitsu T**, Tanaka S, Nagira D, Nishibeppu S, Takada N, et al.\
     Endobronchial Watanabe Spigot for Acute Empyema With Bronchopleural Fistula: A Case Series.\
     Respirol Case Rep. 2025;13:e70444.\
     doi: https://doi.org/10.1002/rcr2.70444
@@ -114,7 +114,7 @@
     doi: (in press)
     
 
-1.  **Niitsu T**, Fukushima K, Komukai S, Yamamoto R, Shiroyama T, Nii T, Takata S, Hashimoto K, Abe Y, Hirata H, Miyake K, Kataoka T, Okudela K, Iwakoshi S, Yanagawa M, Takeuchi N, Takeda Y, Kida H, Kumanogoh A.\
+1.  **Niitsu T**, Fukushima K, Komukai S, Yamamoto R, Shiroyama T, Nii T, et al.\
     Effectiveness of antifibrotic treatment in real-world patients with progressive pulmonary fibrosis.\
     Respir Med. 2025;248:108347.\
     doi: [10.1016/j.rmed.2025.108347](https://linkinghub.elsevier.com/retrieve/pii/S095461112500410X)
