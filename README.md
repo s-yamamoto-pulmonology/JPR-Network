@@ -90,7 +90,7 @@
 
 
 1.  Billa S, Fukui S, Paudel ML, Suzuki T, **Imai R**, Kim Y, et al.\
-    Longitudinal Changes in Serum Urate Levels from Pre-menopause through Post-menopause: Interrupted Time-Series Analyses.\      
+    Longitudinal Changes in Serum Urate Levels from Pre-menopause through Post-menopause: Interrupted Time-Series Analyses.\
     Arthritis Rheumatol. 2025 (in press).\
     doi: [10.1002/art.43406](https://acrjournals-onlinelibrary-wiley-com.treadwell.idm.oclc.org/doi/10.1002/art.43406)
 
