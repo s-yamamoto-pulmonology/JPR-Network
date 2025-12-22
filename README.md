@@ -184,7 +184,7 @@
     Intern Med. 2025;64(6):893-897.\
     doi: [10.2169/internalmedicine.3956-24](https://doi.org/10.2169/internalmedicine.3956-24)
 
-10. Nakamura T, Jinta T, Kitamura A, Tanaka M, So C, Ro S, et al.\
+10. Nakamura T, Jinta T, Kitamura A, Tanaka M, So C, Ro S, **Imai R** et al.\
     Differences in Tolerability of Antifibrotic Agents Between Connective Tissue Disease-Associated and Non-connective Tissue Disease-Associated Interstitial Lung Disease.\
     Cureus. 2025;17(2):e78750.\
     doi: [10.7759/cureus.78750](https://doi.org/10.7759/cureus.78750)
