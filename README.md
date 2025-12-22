@@ -82,6 +82,13 @@
 
 ### Peer reviewed publications（5年以内、著者は6名まで記載）
 
+1.  **R Imai**, R Yamamoto, **T Niitsu**, AMC Tukpah, R Kamidani, **S Yamamoto** et al.\
+    Comparison of Oxygenation Targets in Critically Ill Adults: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials.\
+    Am J Respir Crit Care Med. 2025 (in press).\
+    doi: (in press)
+
+
+
 1.  **Imai R**, Bermea RS, Zhao SH, Singh A, Synn AJ, Flashner BM, et al.\
     Low forced vital capacity is associated with poor prognosis in physiologically stable non-IPF interstitial lung disease.\
     Eur Respir J. 2025 (in press).\
