@@ -573,6 +573,11 @@
 
 ### Review articles/Editorials/Correspondences
 
+1.  **Imai R**, Bermea RS, Zhao SH, Shea BS, Hallowell RW.\
+    Response.\
+    Chest. 2025;168(6):e203-e204.\
+    doi: [10.1016/j.chest.2025.07.4072](https://doi.org/10.1016/j.chest.2025.07.4072)
+
 1.  **Imai R**, Fukui S, Inoue K\
     Pirfenidone and lung cancer in idiopathic pulmonary fibrosis: mind the index date, detection bias, and competing risks.\
     Eur Respir J. 2025;66(3):2500453.\
