@@ -87,13 +87,10 @@
     Am J Respir Crit Care Med. 2025 (in press).\
     doi: (in press)
 
-
-
 1.  **Imai R**, Bermea RS, Zhao SH, Singh A, Synn AJ, Flashner BM, et al.\
     Low forced vital capacity is associated with poor prognosis in physiologically stable non-IPF interstitial lung disease.\
     Eur Respir J. 2025 (in press).\
     doi: [10.1183/13993003.01638-2025](https://publications.ersnet.org/content/erj/early/2025/10/28/1399300301638-2025)
-
 
 
 1.  Billa S, Fukui S, Paudel ML, Suzuki T, **Imai R**, Kim Y, et al.\
@@ -102,72 +99,55 @@
     doi: [10.1002/art.43406](https://acrjournals-onlinelibrary-wiley-com.treadwell.idm.oclc.org/doi/10.1002/art.43406)
 
 
-
 1.  **Imai R**, Ro S, Tukpah AC, Suzuki T, Kim Y, Shinozaki T, et al.\
     Lung Function Changes Across the Menopausal Transition: A Longitudinal Analysis of Annual Exams.\
     CHEST. 2025 (in press).\
     doi: [10.1016/j.chest.2025.09.011](https://www.sciencedirect.com/science/article/pii/S0012369225052572)
     
-    
 1.  Nakano W, Nakamura T, Kitamura A, So C, Ro S, **Imai R**, et al.\
     Risk Factors for the Failure of Non-surgical Treatment in Pneumothorax.\
     Cureus 2025;17(11):e97132.\
     doi: [10.7759/cureus.97132](https://www.cureus.com/articles/414619-risk-factors-for-the-failure-of-non-surgical-treatment-in-pneumothorax#!/)
-    
-
 
 1.  Yokota K, **Niitsu T**, Tanaka S, Nagira D, Nishibeppu S, Takada N, et al.\
     Endobronchial Watanabe Spigot for Acute Empyema With Bronchopleural Fistula: A Case Series.\
     Respirol Case Rep. 2025;13:e70444.\
     doi: https://doi.org/10.1002/rcr2.70444
     
-    
 3.  **Yamamoto S**, Wilson CL, Krueger MA, Gharib SA, Schnapp LM.\
     Deficiency of the Collagen Endocytic Receptor MRC2 Accelerates Mouse Lung Fibroblast Proliferation.\
     Am J Respir Cell Mol Biol. 2025 (in press).\
     doi: (in press)
-    
 
 1.  **Niitsu T**, Fukushima K, Komukai S, Yamamoto R, Shiroyama T, Nii T, et al.\
     Effectiveness of antifibrotic treatment in real-world patients with progressive pulmonary fibrosis.\
     Respir Med. 2025;248:108347.\
     doi: [10.1016/j.rmed.2025.108347](https://linkinghub.elsevier.com/retrieve/pii/S095461112500410X)
 
-
 2.  **Imai R**, **Niitsu T**, Liu MY, Faust H, Schnapp LM, **Yamamoto S**.\
     Comparison of Corticosteroid Regimens for COVID-19 and Non-COVID-19 ARDS: A Systematic Review and Dose-Response Network Meta-Analysis.\
     CHEST Crit Care. 2025;3(4):100207.\
     doi: [10.1016/j.chstcc.2025.100207](https://doi.org/10.1016/j.chstcc.2025.100207)
-        
-        
 
 3.  **Niitsu T**, Kataoka T, Fukushima K, Motooka D, Shichino S, Natsume-Kitatani Y, et al.\
     Spatial transcriptomics identifies SPARC as a prognostic marker in interstitial lung diseases.\
     J Pathol. 2025;267(1):79-91.\
     doi: [10.1002/path.6451](https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.6451)
-        
-        
 
 4.  **Imai R**, Bermea RS, Zhao SH, Montesi SB, Singh A, Flashner BM, et al.\
     Anti-Ro52 Seropositive Interstitial Lung Disease is Associated with a Higher Risk for Disease Progression and Mortality.\
     CHEST. 2025;168(4):954-966.\
     doi: [10.1016/j.chest.2025.05.036](https://doi.org/10.1016/j.chest.2025.05.036)
-        
-        
 
 5.  Flachner BM, **Imai R**, Synn AJ, Munchel JK, Hariri LP, Bermea RS, et al.\
     Anti-Mi-2 positive interstitial lung disease (ILD): a progressive disease comparable to other myositis-ILD.\
     Respir Med Res. 2025;13;88:101176.\
     doi: [10.1016/j.resmer.2025.101176](https://doi.org/10.1016/j.resmer.2025.101176)
-        
-        
 
 6.  Flachner BM, **Imai R**, Synn AJ, Munchel JK, Hariri LP, Bermea RS, et al.\
     Progressive course of anti-nuclear matrix protein-2 (NXP-2) positive-interstitial lung disease.\
     Respir Med Res. 2025;87:101170.\
     doi: [10.1016/j.resmer.2025.101170](https://doi.org/10.1016/j.resmer.2025.101170)
-        
-        
 
 7.  **Yamamoto S**, Horita N, **Imai R**, **Niitsu T**\
     Surgical and Bronchoscopic Lung Volume Reduction for Severe Emphysema: A Systematic Review and Network Meta-analysis.\
