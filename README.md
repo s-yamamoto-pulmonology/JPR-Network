@@ -86,22 +86,29 @@
     Comparison of Oxygenation Targets in Critically Ill Adults: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials.\
     Am J Respir Crit Care Med. 2025 (in press).\
     doi: (in press)
+    
+    
+1.  **S Yamamoto**, **T Niitsu**, K Fukushima, A Shiozawa, **R Imai**, K Hashimoto et al.\
+    Efficacy of Anti-Inflammatory Therapies for Adults with Non-Cystic Fibrosis Bronchiectasis: A Systematic Review and Network Meta-Analysis.\
+    CHEST. 2026 (epub ahead of print).\
+    doi: [10.1016/j.chest.2025.12.035](https://doi.org/10.1016/j.chest.2025.12.035)
+
 
 1.  **Imai R**, Bermea RS, Zhao SH, Singh A, Synn AJ, Flashner BM, et al.\
     Low forced vital capacity is associated with poor prognosis in physiologically stable non-IPF interstitial lung disease.\
-    Eur Respir J. 2025 (in press).\
+    Eur Respir J. 2026;67:2501638.\
     doi: [10.1183/13993003.01638-2025](https://publications.ersnet.org/content/erj/early/2025/10/28/1399300301638-2025)
 
 
 1.  Billa S, Fukui S, Paudel ML, Suzuki T, **Imai R**, Kim Y, et al.\
     Longitudinal Changes in Serum Urate Levels from Pre-menopause through Post-menopause: Interrupted Time-Series Analyses.\
-    Arthritis Rheumatol. 2025 (in press).\
+    Arthritis Rheumatol. 2025 (epub ahead of print).\
     doi: [10.1002/art.43406](https://acrjournals-onlinelibrary-wiley-com.treadwell.idm.oclc.org/doi/10.1002/art.43406)
 
 
 1.  **Imai R**, Ro S, Tukpah AC, Suzuki T, Kim Y, Shinozaki T, et al.\
     Lung Function Changes Across the Menopausal Transition: A Longitudinal Analysis of Annual Exams.\
-    CHEST. 2025 (in press).\
+    CHEST. 2025 (epub ahead of print).\
     doi: [10.1016/j.chest.2025.09.011](https://www.sciencedirect.com/science/article/pii/S0012369225052572)
     
 1.  Nakano W, Nakamura T, Kitamura A, So C, Ro S, **Imai R**, et al.\
