@@ -84,7 +84,7 @@
 
 1.  **R Imai**, R Yamamoto, **T Niitsu**, AMC Tukpah, R Kamidani, **S Yamamoto** et al.\
     Comparison of Oxygenation Targets in Critically Ill Adults: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials.\
-    Am J Respir Crit Care Med. 2025 (in press).\
+    Am J Respir Crit Care Med. 2026 (in press).\
     doi: (in press)
     
     
